@@ -1,0 +1,12 @@
+{
+  "detection_point": [
+    72.6,
+    19.0
+  ],
+  "detection_time": "2026-08-27T12:00:00",
+  "estimated_origin_lon": 72.73563385009766,
+  "estimated_origin_lat": 18.86838150024414,
+  "estimated_origin_time": "2026-08-26 12:00:00",
+  "stranded_early": false,
+  "known_limitations": "Coordinate extraction from real satellite imagery not yet implemented (demo uses manually-specified coordinates); accuracy bounded by wind/current data resolution; near-real-time current data only covers a rolling recent window"
+}
