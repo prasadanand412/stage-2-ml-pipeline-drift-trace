@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Downloaded/cached environmental forcing data (wind JSON, currents NetCDF) —
+# re-fetched on demand by ml/drift_trace, not committed.
+ml/drift_trace/cache/
